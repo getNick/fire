@@ -1,0 +1,8 @@
+﻿  camera.cpp
+c:\users\ольга\desktop\git\trainingframework\newtrainingframework\newtrainingframework\camera.cpp(62): warning C4244: =: преобразование "LONG" в "GLfloat", возможна потеря данных
+c:\users\ольга\desktop\git\trainingframework\newtrainingframework\newtrainingframework\camera.cpp(63): warning C4244: =: преобразование "LONG" в "GLfloat", возможна потеря данных
+  NewTrainingFramework.cpp
+c:\users\ольга\desktop\git\trainingframework\newtrainingframework\newtrainingframework\newtrainingframework.cpp(18): warning C4305: инициализация: усечение из "double" к "float"
+  Создание кода...
+  NewTrainingFramework.vcxproj -> C:\Users\Ольга\Desktop\git\TrainingFramework\NewTrainingFramework\\BIN\NewTrainingFramework.exe
+  NewTrainingFramework.vcxproj -> C:\Users\Ольга\Desktop\git\TrainingFramework\NewTrainingFramework\\BIN\NewTrainingFramework.pdb (Full PDB)
